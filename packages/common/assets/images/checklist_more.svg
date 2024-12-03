@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="53" height="53" viewBox="0 0 63 63">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.553" y2="1"
+        gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#90b902"/>
+      <stop offset="1" stop-color="#1c3e83"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_19363" transform="translate(-54.433 -99)">
+    <g id="checklist" transform="translate(60.805 107.738)">
+      <path id="Path_12038" d="M10.058,12.376H7.8L4.5,9.042,6.754,6.819l2.191,2.16L13.423,4.5l2.254,2.254-5.62,5.621Zm10.29-4.7H45.755v3.176H20.348Zm0,9.527H45.755v3.176H20.348Zm25.407,9.527H20.348v3.176H45.755ZM20.348,36.258H45.755v3.176H20.348ZM7.8,21.9h2.254l5.62-5.621L13.423,14.06,8.946,18.537,6.756,16.347,4.5,18.6l3.3,3.3Zm2.254,9.559H7.8l-3.3-3.3,2.254-2.254L8.945,28.1l4.477-4.51,2.254,2.254-5.62,5.62ZM7.8,41.021h2.254l5.62-5.62-2.254-2.254-4.477,4.51L6.756,35.465,4.5,37.688l3.3,3.335Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
